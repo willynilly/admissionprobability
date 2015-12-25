@@ -1,0 +1,26 @@
+{
+  "name": "admissionprobability",
+  "version": "1.0.0",
+  "description": "Calculates your probability of admission to at least one school.",
+  "main": "admissionprobability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willynilly/admissionprobability.git"
+  },
+  "keywords": [
+    "admission",
+    "admissions",
+    "calculator",
+    "probability",
+    "statistics"
+  ],
+  "author": "Will Riley <will@quietsimple.com> (http://willriley.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willynilly/admissionprobability/issues"
+  },
+  "homepage": "https://github.com/willynilly/admissionprobability#readme"
+}
